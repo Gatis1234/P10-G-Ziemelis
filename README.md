@@ -1,1 +1,3 @@
-# P10-G-Ziemelis
+# Sistēmas pamatparametri
+
+[]imageC:\Users\Gatis\OneDrive
